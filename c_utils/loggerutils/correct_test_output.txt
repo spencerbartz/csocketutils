@@ -1,0 +1,3 @@
+FILE: loggerutils_test.c LINE: 7 DEBUG: THIS IS A DEBUG
+FILE: loggerutils_test.c LINE: 8 WARNING: THIS IS A WARNING
+FILE: loggerutils_test.c LINE: 9 ERROR: THIS IS AN ERROR
